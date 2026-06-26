@@ -38,6 +38,7 @@ This is a simple AI ChatBot developed in Java using Java Swing. It provides a gr
 - Tell me a joke
 - Help
 - Bye
-
+## Project Screenshot
+Chatbot.png
 ## Author
 Developed by: Amithasree Putti
